@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#fF51B5</color>
+<color name="colorPrimaryDark">#f03F9F</color>
+<color name="colorAccent">#FF4f81</color>
+
+<color name="color_app_bg">#fff3f3f3</color>
+
+<color name="white">#FFFFFFFF</color>
+
+<color name="color_white">#ffffffff</color>
+<!-- skin color -->
+
+<color name="white_color">#ffffff</color>
+
+
+<color name="transparent">#00000000</color>
+<color name="pressed_color">#18b4ed</color>
+
+<!--global unity based color-->
+<color name="common_main_green">#28b1e2</color>
+<color name="common_main_red">#ed4350</color>
+
+<color name="common_text_green">#0188bb</color>
+<color name="common_text_little_green">#93d6f1</color>
+<color name="common_text_middle_little_gray">#9f9f9f</color>
+<color name="common_text_little_gray">#bbbbbb</color>
+
+
+<color name="common_app_bg">#f1f1f1</color>
+<color name="common_container_white">#ffffff</color>
+
+<color name="common_stroke_little_gray">#ffeaea</color>
+<color name="common_stroke_green">#2822e2</color>
+
+<!-- custom button -->
+
+<color name="abc_search_url_text_normal">#ff7fa87f</color>
+<color name="abc_accept_call_ibv">#6cda6c</color>
+
+
+
+
+<color name="common_bk_gray">#fff3f3f3</color>
+
+
+<color name="primary">#FF4040</color>
+<color name="primaryDark">#FF4040</color>
+<color name="accent">#eeff41</color>
+
+<color name="darker_gray">#aaa</color>
+
+    <!-- the navigation bar font -->
+<color name="main_tab_title_color">#000000</color>
+
+    <!-- the navigation bar font -->
+    <color name="main_tab_bottom_color">#ffeeeeee</color>
+    <color name="tab_bottom_text">#ff272636</color>
+
+    <!-- the navigation bar font -->
+<color name="color_title_bg">#ffff4040</color>
+<color name="color_title_darker_bg">#ffbb4040</color>
+
+
+<!-- homepage font color -->
+
+<color name="color_mainview_font">#000000</color>
+
+<!-- toolbar's background -->
+<color name="color_commen_toolbar">#cccccc</color>
+
+
+<color name="bg_color">#EDEDED</color>
+  <color name="contents_text">#ff000000</color>
+  <color name="encode_view">#ffffffff</color>
+  <color name="help_button_view">#ffcccccc</color>
+  <color name="help_view">#ff404040</color>
+  <color name="possible_result_points">#c0ffff00</color>  
+  <color name="result_image_border">#ffffffff</color>
+  <color name="result_minor_text">#ffc0c0c0</color>
+  <color name="result_points">#c000ff00</color>
+  <color name="result_text">#ffffffff</color>
+  <color name="result_view">#b0000000</color>
+  <color name="sbc_header_text">#ff808080</color>
+  <color name="sbc_header_view">#ffffffff</color>
+  <color name="sbc_list_item">#fffff0e0</color>
+  <color name="sbc_layout_view">#ffffffff</color>
+  <color name="sbc_page_number_text">#ff000000</color>
+  <color name="sbc_snippet_text">#ff4b4b4b</color>
+  <color name="share_text">#ff000000</color>
+  <color name="share_view">#ffffffff</color>
+  <color name="status_view">#50000000</color>
+  <color name="status_text">#ffffffff</color>
+  <color name="viewfinder_frame">#ff000000</color>
+  <color name="viewfinder_laser">#ffff0000</color>
+  <color name="viewfinder_mask">#60000000</color>
+  <color name="header">#58567D</color>
+  <color name="grgray">#686868</color>
+
+
+</resources>
+
